@@ -1,5 +1,5 @@
 # SMARTOnco
-AI Enabled Android App for Detecting Skin Cancer
+AI Enabled Android App for Detecting Skin Cancer, by Dr. Yuvraj Kumar (Ph.D - Artificial Intelligence)
 
 Skin cancer is the most common type of cancer.  The main types of skin cancer are squamous cell carcinoma, basal cell carcinoma, and melanoma. Melanoma is much less common than the other types but much more likely to invade nearby tissue and spread to other parts of the body. Most deaths from skin cancer are caused by melanoma. Explore the links on this page to learn more about skin cancer prevention, screening, treatment, statistics, research, clinical trials, and more.
 
