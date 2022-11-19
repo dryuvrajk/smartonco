@@ -46,13 +46,19 @@ Model is already trained using CNN. The model and the ipynb code is in Training 
 
 I am not an Android Developer. The app could be buggy or may not work at all. If you want to work on this app, you may import the project, look at the code to understand it better, and further look at the AI integration on how it is done.
 
-# Samples used for Model Training
+TFLite has been used to build this end-to-end Android application.
+
+### Adding TFLite model to the Android Project
+
+First — load the model in the Android project, model.tflite (not included in this repo upload) and labels.txt into assets/ directory. The file model.tflite is the result of the model training done using jupyter notebook (anaconda 3). Add TFLite dependency to app/build.gradle file.
+
+# Sample images used for Model Training
 
 Benign - 30 Images
 
 Malignant - 27 Images 
 
-## PoC
+## Proof of Concept 
 
 ### Benign - 99% confidence 
 
