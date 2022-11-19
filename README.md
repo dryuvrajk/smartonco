@@ -61,3 +61,11 @@ Malignant - 27 Images
 ### Malignant - 99% confidence
 
 ![Screenshot](8.jpg)
+
+### App UI Sample
+
+![Screenshot](image-skin-app.png)
+
+## Suggestions and inputs (if any) 
+
+Any suggestions or cowork opportunity is welcome to enhance the application. 
