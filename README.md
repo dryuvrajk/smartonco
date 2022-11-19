@@ -3,7 +3,37 @@ AI Enabled Android App for Detecting Skin Cancer, by Dr. Yuvraj Kumar (Ph.D - Ar
 
 In recent days, skin cancer is seen as one of the most Hazardous form of Cancers found in Humans. Skin cancer is found in various types such as Melanoma, Basal and Squamous cell Carcinoma among which Melanoma is the most unpredictable. The detection of Melanoma cancer in the early stage can be helpful to cure it. Computer vision can play important role in Medical Image Diagnosis and it has been proved by many existing systems.
 
-# About the Project
+Oncology is the study of cancer. An oncologist is a doctor who treats cancer and provides medical care for a person diagnosed with cancer. An oncologist may also be called a cancer specialist.
+
+The field of oncology has 3 major areas based on treatments: medical oncology, radiation oncology, and surgical oncology.
+
+Medical oncologists treat cancer using medication, including chemotherapy, immunotherapy, and targeted therapy.
+
+Radiation oncologists treat cancer using radiation therapy, which is the use of high-energy x-rays or other particles to destroy cancer cells.
+
+Surgical oncologists treat cancer using surgery, including removing the tumor and nearby tissue during a operation. This type of surgeon can also perform certain types of biopsies to help diagnose cancer.
+
+### What is the role of the oncologist?
+
+An oncologist manages a patient's care throughout the course of the disease. This starts with the diagnosis. Their role includes:
+
+Recommending tests to determine whether a person has cancer
+
+Explaining a cancer diagnosis, including the type and stage of the cancer
+
+Talking about all treatment options and your treatment choice
+
+Delivering quality and compassionate care
+
+Helping you manage symptoms and side effects of cancer and its treatment
+
+A person's cancer treatment plan may include more than one type of treatment, such as surgery, cancer medications, and/or radiation therapy. That means different types of oncologists and other health care providers work together to create a patient's overall treatment plan. This is called a multidisciplinary team.
+
+Cancer care teams often include a variety of other health care professionals, including pathologists, radiologists, physician assistants, nurse practitioners, oncology nurses, social workers, pharmacists, and more. Learn about these and other possible members of a multidisciplinary team in another article on this website. Doctors from other areas of medicine can also be part of this team. For example, a dermatologist, which is a specialist in skin problems, may help treat skin cancer.
+
+Using this app which is combined with the power of artificial intelligence, we intend to provide rapid first level self diagnosis opportunity to the medical professionals including common man. 
+
+# SmartOnco - Project placement 
 
 The project is mainly divided into two parts:
 
