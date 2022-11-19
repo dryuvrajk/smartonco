@@ -51,3 +51,13 @@ I am not an Android Developer. The app could be buggy or may not work at all. If
 Benign - 30 Images
 
 Malignant - 27 Images 
+
+## PoC
+
+### Benign - 99% confidence 
+
+![Screenshot](7.jpg)
+
+### Malignant - 99% confidence
+
+![Screenshot](8.jpg)
