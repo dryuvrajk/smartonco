@@ -5,7 +5,7 @@ Skin cancer is the most common type of cancer.  The main types of skin cancer ar
 
 In recent days, skin cancer is seen as one of the most Hazardous form of Cancers found in Humans. Skin cancer is found in various types such as Melanoma, Basal and Squamous cell Carcinoma among which Melanoma is the most unpredictable. The detection of Melanoma cancer in the early stage can be helpful to cure it. Computer vision can play important role in Medical Image Diagnosis and it has been proved by many existing systems.
 
-# About Project
+# About the Project
 
 The project is mainly divided into two parts:
 
@@ -17,6 +17,24 @@ Using Convolutional Neural Networks (CNN), algorithm development and model train
 ## Loading the dataset
 
 You can use your own custom dataset. I have used the skin cancer dataset for binary classification of benign vs malignant cancer types, once done, annotation (labelling) needs to be performed. 
+
+## Transfer Learning with TensorFlow hub:
+
+Select the Hub/TF2 module to use, you can choose inception v3 or Mobile net. In this module, MobileNet model has been used. 
+
+## Data Preprocessing:
+
+Kindly Set up data generators to read images from source folders, transform them to float32 tensors, and feed them to the network (along with their labels). NOTE: data that is fed into neural networks is normally normalised in some way to make it easier for the network to process.
+
+For this project, data has been preprocessed including images by converting the pixel values to [0, 1] range (all values are in the [0, 255] range). NOTE: The input data must be scaled to 224×224 pixels as an input, as specified by the networks. You can choose whether or not to use image AUGMENTATION option.
+
+## Building the model:
+
+It’s as simple as using the Hub module to layer a linear classifier on top of the feature extractor. You may start with a non-trainable feature extractor for speed, but you may enable fine-tuning for more accuracy, although training the model generally takes long time which may be further be reduced if the computing infrastructure is advanced as compared to normal GPU. 
+
+## Training the Model:
+
+Each step has to be validated by training the model with the validation dataset. I have been able to achieve achieve close to 98% accuracy after 21 epochs, but fine-tuning can increase this to achieve 99.99% Accuracy. 
 
 # Files
 
