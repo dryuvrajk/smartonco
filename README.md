@@ -1,8 +1,6 @@
 # SMARTOnco
 AI Enabled Android App for Detecting Skin Cancer, by Dr. Yuvraj Kumar (Ph.D - Artificial Intelligence)
 
-Skin cancer is the most common type of cancer.  The main types of skin cancer are squamous cell carcinoma, basal cell carcinoma, and melanoma. Melanoma is much less common than the other types but much more likely to invade nearby tissue and spread to other parts of the body. Most deaths from skin cancer are caused by melanoma.
-
 In recent days, skin cancer is seen as one of the most Hazardous form of Cancers found in Humans. Skin cancer is found in various types such as Melanoma, Basal and Squamous cell Carcinoma among which Melanoma is the most unpredictable. The detection of Melanoma cancer in the early stage can be helpful to cure it. Computer vision can play important role in Medical Image Diagnosis and it has been proved by many existing systems.
 
 # About the Project
@@ -34,7 +32,7 @@ It’s as simple as using the Hub module to layer a linear classifier on top of 
 
 ## Training the Model:
 
-Each step has to be validated by training the model with the validation dataset. I have been able to achieve achieve close to 98% accuracy after 21 epochs, but fine-tuning can increase this to achieve 99.99% Accuracy. 
+Each step has to be validated by training the model with the validation dataset. I have been able to achieve close to 98% accuracy after 21 epochs, but fine-tuning can increase this to achieve 99.99% Accuracy. 
 
 # Files
 
